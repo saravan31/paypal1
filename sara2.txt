@@ -1,0 +1,2 @@
+deveops is concept
+shell scripting
